@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\css\\client.css",
+      "PackagePath": "staticwebassets\\css\\client.css"
+    },
+    {
+      "Id": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\js\\client.js",
+      "PackagePath": "staticwebassets\\js\\client.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVCWebDevClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MVCWebDevClient.props",
+      "PackagePath": "build\\MVCWebDevClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCWebDevClient.props",
+      "PackagePath": "buildMultiTargeting\\MVCWebDevClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MVCWebDevClient.props",
+      "PackagePath": "buildTransitive\\MVCWebDevClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

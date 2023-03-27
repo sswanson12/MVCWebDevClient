@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "LBKeNI43Mr6fkvGtQjYiZgIE/fBQWOSJKgYLG+Gnof0=",
+  "Source": "MVCWebDevClient",
+  "BasePath": "_content/MVCWebDevClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MVCWebDevClient\\wwwroot",
+      "Source": "MVCWebDevClient",
+      "ContentRoot": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\",
+      "BasePath": "_content/MVCWebDevClient",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\css\\client.css",
+      "SourceId": "MVCWebDevClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\",
+      "BasePath": "_content/MVCWebDevClient",
+      "RelativePath": "css/client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\client.css"
+    },
+    {
+      "Identity": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\js\\client.js",
+      "SourceId": "MVCWebDevClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\",
+      "BasePath": "_content/MVCWebDevClient",
+      "RelativePath": "js/client.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\client.js"
+    }
+  ]
+}
