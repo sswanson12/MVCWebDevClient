@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\css\\client.css",
+      "Id": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\css\\client.css",
       "PackagePath": "staticwebassets\\css\\client.css"
     },
     {
-      "Id": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\js\\client.js",
+      "Id": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\js\\client.js",
       "PackagePath": "staticwebassets\\js\\client.js"
+    },
+    {
+      "Id": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\wwwroot\\media\\toast.wav",
+      "PackagePath": "staticwebassets\\media\\toast.wav"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MVCWebDevClient.Microsoft.AspNetCore.StaticWebAssets.props",

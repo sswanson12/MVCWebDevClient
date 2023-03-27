@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj": {}
+    "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj": {}
   },
   "projects": {
-    "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj": {
+    "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
+        "projectUniqueName": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
         "projectName": "MVCWebDevClient",
-        "projectPath": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
+        "projectPath": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
         "packagesPath": "C:\\Users\\samsw\\.nuget\\packages\\",
-        "outputPath": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\obj\\",
+        "outputPath": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

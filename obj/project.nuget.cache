@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cN/OybtuVm6ey591zZl869h4FGWy0/MehvyLY9LdCoP7rihUHeqjd07ULQ2kt/u1BfsCjvNLINAp2X2dSDY5MA==",
+  "dgSpecHash": "Z9dO6hQ3twzQ92XN3DmJYQA+/GOIh27LUoVkyvB4/jJW+IBIJTfQur+uuzZhQ/ppr9FgOJ80IXb3b6ae5rOwOw==",
   "success": true,
-  "projectFilePath": "E:\\WCTC\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
+  "projectFilePath": "C:\\Users\\samsw\\Desktop\\Script Editors\\Current Projects\\.NET Web Dev\\MVCWebDevClient\\MVCWebDevClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samsw\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\samsw\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
